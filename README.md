@@ -1,6 +1,3 @@
-# scrape-website
-A Web Scraper (Puppeteer)
-
 # Puppeteer
 
 # Introduction
