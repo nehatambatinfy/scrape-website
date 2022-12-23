@@ -2,7 +2,7 @@
 
 # Introduction
 
-Puppeteer is a Node.js library for automating, testing and scraping web pages on top of the Chrome DevTools Protocol.
+Puppeteer is a Node.js library created by Google for automating, testing and scraping web pages on top of the Chrome DevTools Protocol.
 
 # What is Scraping and why it is needed ?
 
